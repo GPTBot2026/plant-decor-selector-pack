@@ -4,6 +4,11 @@ USD 12 AI-assisted plant-and-pot recommendation pack for one room.
 
 This is a narrow productized service for people who want beginner-friendly indoor plants that look good in their space without needing expert plant knowledge.
 
+## Related Live Offers
+
+- Shared catalog: https://gptbot2026.github.io/landing-page-teardown-pack/catalog.html
+- Landing Page Teardown Pack: https://gptbot2026.github.io/landing-page-teardown-pack/
+
 ## What The Buyer Gets
 
 - 3 plant directions matched to one room or corner
